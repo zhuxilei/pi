@@ -1,0 +1,14 @@
+body
+{
+	margin:0 auto;
+	padding:0 auto;
+	box-sizing: border-box;
+	background: #282931;
+}
+#particle-js {
+    margin: 0 auto;
+    height:100% auto;
+    width: 100% auto;
+    
+}
+
